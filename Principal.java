@@ -21,6 +21,7 @@ public class Principal {
 		
 		}catch(ParametroIncorrecto e){
 			System.out.println("Error en la entrada de datos: "+e);
+			System.out.println("holamundooo");
 		}
 	}
 
